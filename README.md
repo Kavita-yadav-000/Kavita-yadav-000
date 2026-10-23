@@ -22,6 +22,7 @@ kavitay3628@gmail.com
 - **[Heart Disease Prediction](https://github.com/Kavita-yadav-000/Heart_Disease_Prediction)** – Logistic Regression model with a Flask web app for real-time heart disease risk prediction (team project).
 - **[Fake News Detection](https://github.com/Kavita-yadav-000/Fake_news_Detection)** – ML model that classifies news as real or fake using NLP.
 - **[Mental Health Bot](https://github.com/Kavita-yadav-000/Mental_health_bot)** – Flask-based chatbot with a clean web interface.
+-** portfolio**
 -**[ https://github.com/Kavita-yadav-000/portfolio] **- 
 
 ## 📫 Connect with me
